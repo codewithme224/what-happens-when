@@ -674,6 +674,11 @@ GPU Rendering
   of ``GPU`` massive parallelism for float point calculations required for
   the rendering process.
 
+  Here is some additional explanations to further elaborate on the concept of GPU rendering:
+
+  * Parallelism and Massive Compute Power:
+   One of the key advantages of utilizing the GPU for rendering is its exceptional parallel processing capabilities. Modern GPUs are       specifically designed to perform numerous calculations simultaneously, making them highly efficient for handling complex graphical    computations. By breaking down the rendering task into smaller pieces, the GPU can process them in parallel, resulting in significant    performance improvements compared to sequential CPU-based rendering.
+
 
 Window Server
 -------------
